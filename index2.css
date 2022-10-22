@@ -1,0 +1,49 @@
+	body{background-color: #b7b7b7;
+	}
+
+
+	.nav{color: white;
+	display: inline-block;
+	background-color: #000000;
+	padding: 30px;
+	border-radius: 20px;
+	width: 20%;
+	position: sticky;
+	top: 0px;
+	}	
+	.nav:hover{background-color: rgba(0, 0, 0, 0.5);
+	}
+
+	a{color: white;
+	text-decoration: none;
+	}
+
+	#mom{display: flex;
+	}
+
+
+	.child{display: flex;
+	justify-content: space-around;
+	margin-left: 100px;
+	margin-right: 100px;
+	}
+	#f1{background-color: rgb(34, 34, 34);
+	padding: 20px;
+	width: 70%;
+	}
+	#footer{display: flex;
+	color: white;}
+
+	map{width: 30%;}
+	a{color: white;
+	text-decoration: none;}
+
+#copywrite{display: flex; 
+		background-color:#000000; 
+		height:50px;
+		color: white;
+		font-size: 12px;
+	}
+
+	.media{width: 50%;}
+	#cw{width: 50%;}
